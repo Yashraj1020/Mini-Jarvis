@@ -1,0 +1,13 @@
+News API:
+    #in confidentials
+Gemini API:
+    #in confidentials
+
+Modules:
+    SpeechRecognition
+    PyAudio
+    pyttsx3
+    requests
+    wikipedia
+    google-genai
+    webbrowser
